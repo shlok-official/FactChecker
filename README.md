@@ -4,4 +4,4 @@
  
 > •	Build optimal model using classification algorithms-Naïve Bayes, Logistic Regression to categorize a statement as True or False
 
-> •Members: Shlok Dixit/ Archana Vasanthan/ Dhanashri Parkar/ Jay
+> •Members: Shlok Dixit/ Archana Vasanthan/ Dhanashri Parkar/ Jaya Jayakumar
